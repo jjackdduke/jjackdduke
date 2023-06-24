@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello, I'm Heeyeon Seo 👋</h1>
   
-  <img width=60% src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.ppomppu.co.kr%2Fnew%2Fbbs_view.php%3Fid%3Dfreeboard%26no%3D7027904&psig=AOvVaw1h_JuqSC_NwLtr7d-pwrDW&ust=1687702490846000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJi_zPCL3P8CFQAAAAAdAAAAABA9"/>
+  <img width=60% src="https://github.com/jjackdduke/jjackdduke/assets/109324506/4cf7de30-fb6b-4a24-83b8-6896ebc528bc"/>
 
   <h2 align="center"><b>⚒ Tech Stack ⚒</b></h2>
   <h3 align="center">🌐 Web 🌐</h3>
@@ -17,6 +17,7 @@
   <a><img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a> &nbsp 
   <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
   <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
+  <br>
   <br>
   <h3 align="center">📚 Languages 📚</h3>
   <a><img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a> &nbsp 
