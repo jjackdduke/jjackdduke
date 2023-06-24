@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hello, I'm Heeyeon Seo 👋</h1>
-
+  
+  <img width=60% src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.ppomppu.co.kr%2Fnew%2Fbbs_view.php%3Fid%3Dfreeboard%26no%3D7027904&psig=AOvVaw1h_JuqSC_NwLtr7d-pwrDW&ust=1687702490846000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJi_zPCL3P8CFQAAAAAdAAAAABA9"/>
 
   <h2 align="center"><b>⚒ Tech Stack ⚒</b></h2>
   <h3 align="center">🌐 Web 🌐</h3>
